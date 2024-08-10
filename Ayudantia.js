@@ -28,3 +28,5 @@ function refrescoPosts() {
 fetchPosts();
 
 })
+
+/* nueva linea añadida */
